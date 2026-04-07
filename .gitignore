@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python files (highly recommended for your projects)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
